@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hey there 😉🍠 
+# - 🌱 I’m currently learning how to code 🔍🤔
+# - 🔭 I’m currently working on understanding Git and Github to track my growth! 📈
+# - ⚡ Fun fact: I'm a foreman carpenter attempting to switch careers. 😮‍💨😁
+
 
 <!--
 **CMP-p/CMP-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
